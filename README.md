@@ -5,16 +5,16 @@
 I'm a passionate **Computer Science student** currently pursuing my studies at **EPITECH** and **Chung-Ang University**. I specialize in programming languages such as **C/C++**, **Python**, **JavaScript**, and **Dart**. I'm particularly interested in the world of **AI** and **Video Game Development**. I am constantly seeking to learn, grow, and challenge myself with new and exciting projects!
 
 ### 💻 Skills & Technologies
-- **Programming Languages**: C, C++, Python, JavaScript, Dart
+- **Programming Languages**: C, C++, Python, JavaScript
 - **Web Development**: HTML, CSS, JS, Node.js, React
 - **Game Development**: Unity (C#), Unreal Engine (C++)
-- **AI & Machine Learning**: TensorFlow, PyTorch
+- **AI & Machine Learning**: TensorFlow, PyTorch, NumPy
 - **Tools**: Git, GitHub, Docker, Visual Studio Code, Linux
 
 ### 🎮 Interests
 - **Artificial Intelligence**: Exploring the cutting-edge technologies shaping the future of AI.
 - **Game Development**: Creating immersive and engaging video games, both indie and large-scale projects.
-- **Open Source Contribution**: Actively contributing to open-source projects and building a collaborative network.
+- **Back-end / API REST**
 
 ## 📚 Education
 - **EPITECH** (Europe): Bachelor’s & Master’s in Computer Science
